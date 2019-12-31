@@ -10,6 +10,6 @@ https://nodejs.org/en/
 
 `[sudo] npm install twilio`
 
-# Run
+# Run Command
 
 `node Twilio.js`
