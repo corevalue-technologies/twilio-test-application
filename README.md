@@ -7,6 +7,7 @@ First things first – if you have not yet installed Node.js on your system, you
 https://nodejs.org/en/
 
 # Installation
+Install the Twilio module using npm, in the same directory as “Twilio.js”
 
 `[sudo] npm install twilio`
 
